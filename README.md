@@ -41,5 +41,7 @@ Setting up this repository
 git clone https://github.com/hariinfo/ember-dashboard.git
 
 git commit -m "comments"
+
 git remote add origin https://github.com/hariinfo/ember-dashboard.git
+
 git push -u origin master
